@@ -21,7 +21,7 @@ import com.mystore.pageobjects.SearchResultPage;
  *
  */
 public class AddToCartPageTest extends BaseClass {
-	
+	//Added comment
 	IndexPage indexPage;
 	LoginPage loginPage;
 	HomePage homePage;
